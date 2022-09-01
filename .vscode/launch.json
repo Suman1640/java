@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch forLoop2",
+            "request": "launch",
+            "mainClass": "forLoop2",
+            "projectName": "JAVA_343d592b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_343d592b"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditionalAge",
+            "request": "launch",
+            "mainClass": "conditionalAge",
+            "projectName": "JAVA_343d592b"
+        },
+        {
+            "type": "java",
+            "name": "Launch HalfPyramidReverse",
+            "request": "launch",
+            "mainClass": "HalfPyramidReverse",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch HalfPyramid",
+            "request": "launch",
+            "mainClass": "HalfPyramid",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch HollowRectangle",
+            "request": "launch",
+            "mainClass": "HollowRectangle",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch elseifSwitch",
+            "request": "launch",
+            "mainClass": "elseifSwitch",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nestedloop",
+            "request": "launch",
+            "mainClass": "Nestedloop",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditions",
+            "request": "launch",
+            "mainClass": "Conditions",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTableUsingLoops",
+            "request": "launch",
+            "mainClass": "PrintTableUsingLoops",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNaturalsNumberUsingLoop",
+            "request": "launch",
+            "mainClass": "SumOfNaturalsNumberUsingLoop",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileLoop",
+            "request": "launch",
+            "mainClass": "whileLoop",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch forLoop2",
+            "request": "launch",
+            "mainClass": "forLoop2",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch forLoop",
+            "request": "launch",
+            "mainClass": "forLoop",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchbutton",
+            "request": "launch",
+            "mainClass": "switchbutton",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch GrettingsUsingIfElse",
+            "request": "launch",
+            "mainClass": "GrettingsUsingIfElse",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreaterOrLesser_else_if",
+            "request": "launch",
+            "mainClass": "GreaterOrLesser_else_if",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreaterOrLesser_elseif",
+            "request": "launch",
+            "mainClass": "GreaterOrLesser_elseif",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreaterOrLesserl",
+            "request": "launch",
+            "mainClass": "GreaterOrLesserl",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch greater",
+            "request": "launch",
+            "mainClass": "greater",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditionalAge",
+            "request": "launch",
+            "mainClass": "conditionalAge",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch inputbyscanner",
+            "request": "launch",
+            "mainClass": "inputbyscanner",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "Launch variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "JAVA_dca63a9d"
+        }
+    ]
+}
